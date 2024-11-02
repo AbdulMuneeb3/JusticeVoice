@@ -1,0 +1,23 @@
+#logo{
+	margin-left: 100px;
+  }
+
+  #count{
+    color: #f21d1d !important;
+  }
+
+  .msg-box{
+    margin-top: 19rem;
+  
+  }
+  #msg{
+    margin-left: 2rem;
+  }
+  .text-box{
+    margin-left: 1.5rem;
+    max-width: 30rem;
+    max-height: 10rem;
+    /* background-color: #000000;
+    color: aqua; */
+
+  }
